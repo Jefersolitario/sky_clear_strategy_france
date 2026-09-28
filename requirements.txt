@@ -1,0 +1,12 @@
+certifi
+scipy
+pandas
+plotly
+numpy
+streamlit
+requests
+pymongo
+PyYaml
+statsmodels
+sqlalchemy
+psycopg2

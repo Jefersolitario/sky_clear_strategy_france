@@ -1,0 +1,1 @@
+(https://gitlab.com/Energetech/trading-engine/marketdatabackend/-/blob/main/marketdatabackend/logic/full_depth_snapshot.py?ref_type=heads)](https://gitlab.com/Energetech/trading-engine/marketdatabackend/-/blob/main/marketdatabackend/logic/full_depth_snapshot.py?ref_type=heads)
